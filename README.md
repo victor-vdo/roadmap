@@ -11,7 +11,6 @@ Table of contents
 <!--ts-->
    * [About](#about)
    * [Topics](#topics)
-      * [Prerequisites](#prerequisites)
       * [General Development Skills](#general-skills)
       * [C#](#csharp)
       * [SQL Fundamentals](#sql-fundamentals)
@@ -45,10 +44,15 @@ About
  
  Topics
  ======
- Prerequisites
- --
  General Development Skills
  --
+  - Git: Learn Git, create a few repositories on GitHub, share your code with other people
+  - HTTP(S) Protocol
+  - Power Searching with Google
+  - Dotnet CLI
+  - Algorithms and data structures
+  - POO
+  
  C#
  --
  SQL Fundamentals
