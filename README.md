@@ -14,7 +14,7 @@ Table of contents
       * [General Development Skills](#general-development-skills)
       * [C#](#c)
       * [SQL Fundamentals](#sql-fundamentals)
-      * [Asp.NET Core Basics](#aspnetcore-basics)
+      * [Asp.NET Core Basics](#aspnet-core-basics)
       * [SOLID](#solid)
       * [ORM](#orm)
       * [Dependency Injection](#dependency-injection)
