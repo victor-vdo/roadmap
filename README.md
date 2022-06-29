@@ -22,7 +22,7 @@ Table of contents
       * [Caching](#caching)
       * [Databases](#databases)
       * [Log Frameworks](#log-frameworks)
-      * [API Clients & Communications](#api-clients-and-communications)
+      * [API Clients & Communications](#api-clients)
       * [Real-Time Communication](#real-time-communication)
       * [Object Mapping](#object-mapping)
       * [Task Scheduling](#task-scheduling)
@@ -44,7 +44,7 @@ About
  </p>
  
  Topics
- --
+ ======
  Prerequisites
  --
  General Development Skills
@@ -61,32 +61,33 @@ About
  --
  Dependency Injection
  --
-Caching
---
-Databases
---
-Log Frameworks
---
-API Clients & Communications
---
-Real-Time Communication
---
-Object Mapping
---
-Task Scheduling   
---
-Testing 
---
-Micro-Services
---
-Continuous Integration & Delivery 
---
-Design Patterns
---
-Client-Side Libraries 
---
-Template Engines    
---
-Good to Know Libraries
---
- 
+ Caching
+ --
+ Databases
+ --
+ Log Frameworks
+ --
+ API Clients & Communications
+ --
+ Real-Time Communication
+ --
+ Object Mapping
+ --
+ Task Scheduling   
+ --
+ Testing 
+ --
+ Micro-Services
+ --
+ Continuous Integration & Delivery 
+ --
+ Design Patterns
+ --
+ Client-Side Libraries 
+ --
+ Template Engines    
+ --
+ Good to Know Libraries
+ --
+Tests
+=====
