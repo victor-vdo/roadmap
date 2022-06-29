@@ -11,8 +11,8 @@ Table of contents
 <!--ts-->
    * [About](#about)
    * [Topics](#topics)
-      * [General Development Skills](#general-skills)
-      * [C#](#csharp)
+      * [General Development Skills](#general-development-skills)
+      * [C#](#c#)
       * [SQL Fundamentals](#sql-fundamentals)
       * [Asp.NET Core Basics](#aspnetcore-basics)
       * [SOLID](#solid)
