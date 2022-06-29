@@ -38,7 +38,7 @@ Table of contents
 About
 =====
   <p>
-    <h4>This project will be building in base of Moien Tajik's roadmap that can be found <a href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap">here</a></h4>
+    <h4>This project will be building in base of Moien Tajik's roadmap that can be found <a href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap"  target="_blank">here</a></h4>
     <h4>The goal is to learn new technologies and train new skills. In addition, I want to reinforce my knowledge in the programming area. </h4>
  </p>
  
