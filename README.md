@@ -58,44 +58,106 @@ About
  ### Console
  - [Calculator](https://github.com/victor-vdo/calculator)
  - [Stopwatch](https://github.com/victor-vdo/Stopwatch)
+
+
+ <a href="#roadmap" class="roadmap">Back to Top</a>
  
  SQL Fundamentals
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Asp.NET Core Basics
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  SOLID
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  ORM
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Dependency Injection
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Caching
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Databases
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Log Frameworks
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  API Clients & Communications
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Real-Time Communication
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Object Mapping
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Task Scheduling   
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Testing 
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Micro-Services
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Continuous Integration & Delivery 
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Design Patterns
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Client-Side Libraries 
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Template Engines    
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
  Good to Know Libraries
  --
+ 
+ <a href="#roadmap" class="roadmap">Back to Top</a>
+ 
 Tests
 =====
+
+<a href="#roadmap" class="roadmap">Back to Top</a>
