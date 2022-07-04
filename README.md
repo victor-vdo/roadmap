@@ -56,8 +56,8 @@ About
  C#
  --
  ### Console
- - [Calculator](https://github.com/victor-vdo/calculator).
- 
+ - [Calculator](https://github.com/victor-vdo/calculator)
+ - [Stopwatch](https://github.com/victor-vdo/Stopwatch)
  SQL Fundamentals
  --
  Asp.NET Core Basics
