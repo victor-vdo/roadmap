@@ -58,6 +58,7 @@ About
  #### Console
  - [Calculator](https://github.com/victor-vdo/calculator)
  - [Stopwatch](https://github.com/victor-vdo/Stopwatch)
+ - [Text Editor](https://github.com/victor-vdo/TextEditor)
 
 
  <a href="#roadmap" class="roadmap">Back to Top</a>
