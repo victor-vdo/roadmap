@@ -59,6 +59,7 @@ About
  - [Calculator](https://github.com/victor-vdo/calculator)
  - [Stopwatch](https://github.com/victor-vdo/Stopwatch)
  - [Text Editor](https://github.com/victor-vdo/TextEditor)
+ - [Book Chooser](https://github.com/victor-vdo/BookChooser)
 
 
  <a href="#roadmap" class="roadmap">Back to Top</a>
